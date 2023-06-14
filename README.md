@@ -10,7 +10,7 @@
  - There are 4 modules of full code:
    1) Header;
    2) Sidebar menu;
-   3) Main content (<main> - consists of 4 sections):
+   3) Main content (<main> - consists of 5 sections):
       - More;
       - About;
       - Technical specifications;
